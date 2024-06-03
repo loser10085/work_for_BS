@@ -1,2 +1,2 @@
 # work_for_BS
-这是基于SPringboost+vue2开发的javaweb的BS项目
+这是基于Springboost+vue2开发的javaweb的BS项目
